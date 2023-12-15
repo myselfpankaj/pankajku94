@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Tanwar</h1>
 <h3 align="center">A passionate PHP Web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajku94&label=Profile%20views&color=0e75b6&style=flat" alt="pankajku94" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpankaj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpankaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajku94" alt="pankajku94" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfpankaj" alt="myselfpankaj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pankajku94" target="blank"><img src="https://img.shields.io/twitter/follow/pankajku94?logo=twitter&style=for-the-badge" alt="pankajku94" /></a> </p>
 
